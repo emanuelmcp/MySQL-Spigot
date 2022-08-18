@@ -1,0 +1,6 @@
+name: MySQL
+version: '${project.version}'
+main: adariel.mysql.MySQL
+api-version: 1.19
+authors: [ Adariel ]
+description: My first MySQL plugin
